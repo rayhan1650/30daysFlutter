@@ -12,6 +12,7 @@ class HomePage extends StatelessWidget {
       body: const Center(
         child: Text('Hello World'),
       ),
+      drawer: const Drawer(),
     );
   }
 }
