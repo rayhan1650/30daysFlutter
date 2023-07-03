@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter layout demo'),
+        title: const Text('Catalog App'),
       ),
       body: const Center(
         child: Text('Hello World'),
